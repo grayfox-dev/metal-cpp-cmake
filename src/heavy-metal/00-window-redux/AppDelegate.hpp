@@ -1,7 +1,7 @@
 #ifndef APPDELEGATE
 #define APPDELEGATE
 
-#include "ViewDelegate.hpp"
+#include "MTKViewDelegate.hpp"
 
 class AppDelegate : public NS::ApplicationDelegate
 {

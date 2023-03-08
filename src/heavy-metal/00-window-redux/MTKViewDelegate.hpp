@@ -1,5 +1,5 @@
-#ifndef VIEWDELEGATE
-#define VIEWDELEGATE
+#ifndef MTKVIEWDELEGATE
+#define MTKVIEWDELEGATE
 #include "Renderer.hpp"
 
 class MTKViewDelegate : public MTK::ViewDelegate
